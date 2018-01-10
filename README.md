@@ -2,7 +2,7 @@
 
 Capistrano extension for Apache tasks
 
-:warning: **This package has been moved to on official repository** :warning:
+:warning: **This package has been moved to an official repository** :warning:
 
 This page contains the documentation of the **version 1** of this plugin.
 For future versions, please checkout this one:
