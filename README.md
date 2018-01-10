@@ -2,6 +2,17 @@
 
 Capistrano extension for Apache tasks
 
+:warning: **This package has been moved to on official repository** :warning:
+
+This page contains the documentation of the **version 1** of this plugin.
+For future versions, please checkout this one:
+https://github.com/capistrano-plugins/capistrano-apache
+
+The gem name is still the same (`capistrano-apache`), upgrading from v1 to v2 or higher
+will move to the new one automatically.
+
+Therefore, this repository will not receive any update anymore.
+
 ## Installation
 
 Add this line to your application's Gemfile:
